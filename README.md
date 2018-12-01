@@ -4,10 +4,13 @@
 ## Overview
 
 
-CITE2 URNs require a subnamespace that can be resolved to a URI.   The registry of CITE2 URN subnamespaces is maintained at the institutional repository of the College of the Holy Cross at <http://crossworks.holycross.edu/cite2-subnamespaces>.
+CITE2 URNs require a subnamespace that can be resolved to a URI.   The registry of CITE2 URN subnamespaces is maintained at the institutional repository of the College of the Holy Cross at <http://crossworks.holycross.edu/cite2-subnamespaces>.  The raw data for the published registry are themeselves managed in this repository as a CITE2 Collection.
 
-The raw data for the published registry are themeselves managed in this repository as a CITE2 Collection.  The file `schema.cex` defines the structure of the collection.  Data in CEX format are in `subnamespaces.cex`.
+## Data format and license
 
+The file `schema.cex` defines the structure of the CITE2 collection.  Data in CEX format are in `subnamespaces.cex`.
+
+The CITE2 URN subnamespace registry is in the public domain.
 
 ## Submission process
 
