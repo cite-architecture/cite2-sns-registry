@@ -1,2 +1,3 @@
 urn#abbreviation#uri#contactname#contactemail#description#infourl#status
 urn:cite2:cite:cite2ssns.v1:cite#cite#https://cite-architecture.github.io/cite2urn#Neel Smith#nsmith@holycross.edu#Namespace for uniquely identified concepts in the CITE Architecture#http://cite-architecture.github.io/cite2urn#current
+urn:cite2:cite:cite2ssns.v1:hmt#hmt#http://www.homermultitext.org/cite2ns/hmt#Neel Smith#nsmith@holycross.edu#Namespace for CITE2 Collections in the Homer Multitext project#https://homermultitext.github.io/#current
