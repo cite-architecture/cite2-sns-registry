@@ -1,0 +1,14 @@
+#!citecollections
+URN#Description#Labelling property#Ordering property#License
+urn:cite2:cite:cite2sns.v1:#Registry of CITE2 subnamespaces#urn:cite2:cite:cite2sns.v1.description:##Public domain
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:cite:cite2sns.v1.urn:#Cite2Urn#
+urn:cite2:cite:cite2sns.v1.abbreviation:#String#
+urn:cite2:cite:cite2sns.v1.uri:#String#
+urn:cite2:cite:cite2sns.v1.contactname:#String#
+urn:cite2:cite:cite2sns.v1.contactemail:#String#
+urn:cite2:cite:cite2sns.v1.description:#String#
+urn:cite2:cite:cite2sns.v1.infourl:#String#
+urn:cite2:cite:cite2sns.v1.status:#String#current,deprecated
