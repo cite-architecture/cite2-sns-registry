@@ -15,8 +15,10 @@ Property#Label#Type#Authority list
 urn:cite2:cite:cite2sns.v1.urn:#Subnamespace URN#Cite2Urn#
 urn:cite2:cite:cite2sns.v1.abbreviation:#Abbreviation#String#
 urn:cite2:cite:cite2sns.v1.uri:#URI#String#
-urn:cite2:cite:cite2sns.v1.contactname:#Contact name#String#
-urn:cite2:cite:cite2sns.v1.contactemail:#Contact email#String#
 urn:cite2:cite:cite2sns.v1.description:#Description#String#
 urn:cite2:cite:cite2sns.v1.infourl:#More information#String#
 urn:cite2:cite:cite2sns.v1.status:#Status#String#current,deprecated
+#!citedata
+urn#abbreviation#uri#description#infourl#status
+urn:cite2:cite:cite2sns.v1:cite#cite#https://cite-architecture.github.io/cite2urn#Namespace for uniquely identified concepts in the CITE Architecture#http://cite-architecture.github.io/cite2urn#current
+urn:cite2:cite:cite2sns.v1:hmt#hmt#http://www.homermultitext.org/cite2ns/hmt#Namespace for CITE2 Collections in the Homer Multitext project#https://homermultitext.github.io/#current

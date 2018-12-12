@@ -15,8 +15,6 @@ Property#Label#Type#Authority list
 urn:cite2:cite:cite2sns.v1.urn:#Subnamespace URN#Cite2Urn#
 urn:cite2:cite:cite2sns.v1.abbreviation:#Abbreviation#String#
 urn:cite2:cite:cite2sns.v1.uri:#URI#String#
-urn:cite2:cite:cite2sns.v1.contactname:#Contact name#String#
-urn:cite2:cite:cite2sns.v1.contactemail:#Contact email#String#
 urn:cite2:cite:cite2sns.v1.description:#Description#String#
 urn:cite2:cite:cite2sns.v1.infourl:#More information#String#
 urn:cite2:cite:cite2sns.v1.status:#Status#String#current,deprecated
