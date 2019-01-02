@@ -21,3 +21,6 @@ urn:cite2:cite:cite2sns.v1.infourl:#More information#String#
 urn:cite2:cite:cite2sns.v1.status:#Status#String#current,deprecated
 #!citedata
 urn#abbreviation#uri#description#infourl#status
+urn:cite2:cite:cite2sns.v1:cite#cite#https://cite-architecture.org/cite2urn#Namespace for uniquely identified concepts in the CITE Architecture#http://cite-architecture.github.io/cite2urn#current
+urn:cite2:cite:cite2sns.v1:hmt#hmt#http://www.homermultitext.org/cite2ns/hmt#Namespace for CITE2 Collections in the Homer Multitext project#http://homermultitext.org/#current
+urn:cite2:cite:cite2sns.v1:mid#mid#http://hcmid.github.io/cite2ns#Namespace for CITE2 Collections in the Holy Cross Manuscripts, Inscriptions and Documents Club#https://hcmid.github.io/#current
