@@ -1,12 +1,20 @@
+#!citelibrary
+name#Registry of subnamespaces for the CITE2 URN namespace
+urn#urn:cite2:cite:sns.v1:cite2
+license#Public domain
+
+#!cexversion
+3.0
+
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
 urn:cite2:cite:cite2sns.v1:#Registry of CITE2 subnamespaces#urn:cite2:cite:cite2sns.v1.description:##Public domain
 
 #!citeproperties
 Property#Label#Type#Authority list
-urn:cite2:cite:cite2sns.v1.urn:#Cite2Urn#
-urn:cite2:cite:cite2sns.v1.abbreviation:#String#
-urn:cite2:cite:cite2sns.v1.uri:#String#
-urn:cite2:cite:cite2sns.v1.description:#String#
-urn:cite2:cite:cite2sns.v1.infourl:#String#
-urn:cite2:cite:cite2sns.v1.status:#String#current,deprecated
+urn:cite2:cite:cite2sns.v1.urn:#Subnamespace URN#Cite2Urn#
+urn:cite2:cite:cite2sns.v1.abbreviation:#Abbreviation#String#
+urn:cite2:cite:cite2sns.v1.uri:#URI#String#
+urn:cite2:cite:cite2sns.v1.description:#Description#String#
+urn:cite2:cite:cite2sns.v1.infourl:#More information#String#
+urn:cite2:cite:cite2sns.v1.status:#Status#String#current,deprecated
