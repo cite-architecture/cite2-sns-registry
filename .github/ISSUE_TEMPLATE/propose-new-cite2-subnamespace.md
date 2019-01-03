@@ -1,6 +1,9 @@
 ---
 name: Propose new CITE2 subnamespace
 about: Template for submitting proposed CITE2 URN subnamespaces
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
