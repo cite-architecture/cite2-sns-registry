@@ -15,7 +15,7 @@ The CITE2 URN subnamespace registry is in the public domain.
 ## Submission process
 
 
--  To propose a **new CITE2 URN subnamepace**, file a new issue in this repository's issue tracker using the template to "Propose new CTS URN subnamepaces".  
+-  To propose a **new CITE2 URN subnamepace**, file a new issue in this repository's issue tracker using the template to "Propose new CITE2 URN subnamepaces".  
 -  To **update data for an existing CITE2 URN subnamespace**,  file a new issue in this repository's issue tracker using the template to "Update existing subnamespace record".  
 
 You will be automatically notified of the result when the proposal has been processed.
